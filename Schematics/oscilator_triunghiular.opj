@@ -1,0 +1,160 @@
+(ExpressProject "oscilator_triunghiular"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\1n4148.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bc807-25.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bc817-25.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bc846b.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bc856b.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c2v7.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c5v1.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c5v6.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c6v2.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c6v8.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c8v2.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c10.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\irfr120npbf.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\mjd31cg.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\mjd32cg.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\mmbfj177lt1g.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\mmbfj309lt1g.lib"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\oscilator_triunghiular.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE"))
+  (Folder "Outputs"
+    (File ".\oscilator_triunghiular-pspicefiles\schematic1\schematic1.net"
+      (Type "Report")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (ActiveProfile ".\oscilator_triunghiular-pspicefiles\schematic1\sim1.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\oscilator_triunghiular-pspicefiles\schematic1\sim1.sim"
+        (DisplayName "SCHEMATIC1-sim1")
+        (Type "PSpice Profile")))
+    (Folder "Model Libraries"
+      (Sort User)
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\1n4148.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bc807-25.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bc817-25.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bc846b.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bc856b.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c2v7.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c5v1.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c5v6.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c6v2.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c6v8.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c8v2.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\bzx84c10.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\irfr120npbf.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\mjd31cg.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\mjd32cg.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\mmbfj177lt1g.lib"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\razva\desktop\oscilator\lib_modelepspice_anexa_1_a\modele_a1_lib\mmbfj309lt1g.lib"
+        (Type "Schematic Library")))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (0
+      (LibraryName "D:\ORCAD\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Path "PSpice Resources")
+      (Path "PSpice Resources" "Model Libraries")
+      (Path "PSpice Resources" "Simulation Profiles"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 430"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 182 1529 182 651")
+        (Scroll "-435 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\ORCAD FILE\OSCILATOR_SEMNAL_TRIUNGHIULAR\OSCILATOR_TRIUNGHIULAR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "razva"))
